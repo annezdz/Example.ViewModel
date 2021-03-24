@@ -1,5 +1,5 @@
 # Funcionalidade View Model
-![Android](/drawable/image.svg)
+![Android](app/src/main/res/drawable/image.svg)
 
 Essa API tem como finalidade ensinar , de uma maneira simples e didática,  o LifeCicle de uma Activity  através das funções onCreate,onStart,onResume, onPause, onStop e onDestroy.
 
